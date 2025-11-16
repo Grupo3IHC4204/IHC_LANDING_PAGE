@@ -1,9 +1,15 @@
 Integrantes:
+
 -Verde Bueno Joaquín Francisco (U20241A054)
+
 -Cochachi Chagua Sebastían Josue (U202416320)
+
 -Tantalean Granda Nicolas (u202410728)
+
 -Espino Rossi Victor Manuel (U202411567)
+
 -Guevara Serrano Diego Ismael (u202318951)
+
 -Chang Vasquez Maria Rosa (U202219580)
 
 Informacion:
@@ -19,6 +25,7 @@ la carga burocrática y psicológica de las familias durante el duelo.
 Segmentos objetivo:
 
 -Familiar directo encargado de organizar todo el proceso funerario (principalmente entre 18 y 65 años).
+
 -Dueño de negocio funerario (generalmente entre 35 y 60 años).
 
 Principales caracteristicas: El propósito de Alma Digital es redefinir la experiencia del duelo, sustituyendo la complejidad 
