@@ -15,7 +15,7 @@ Integrantes:
 Informacion:
 Alma Digital Alma Digital es una startup de base
 tecnológica enfocada en transformar la industria de 
-servicios funerarios en Latinoamérica. Su producto es una aplicación 
+servicios funerarios en Latinoamérica. Nuestro producto es una aplicación 
 móvil integral diseñada para 
 simplificar la gestión de servicios funerarios, ofrecer 
 transparencia total en los costos y proveer un espacio dedicado 
@@ -29,7 +29,7 @@ Segmentos objetivo:
 -Dueño de negocio funerario (generalmente entre 35 y 60 años).
 
 Principales caracteristicas: El propósito de Alma Digital es redefinir la experiencia del duelo, sustituyendo la complejidad 
-burocrática por un acompañamiento digital eficiente, respetuoso y centrado en las personas. Su visión 
+burocrática por un acompañamiento digital eficiente, respetuoso y centrado en las personas. Nuestra visión 
 es ser la plataforma digital líder en Latinoamérica para la gestión de servicios funerarios, transformando 
 la experiencia a través de una solución integral que combina trámites ágiles, costos transparentes 
 y un robusto acompañamiento emocional.
